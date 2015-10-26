@@ -1,0 +1,23 @@
+name: omz13
+favicon: null
+layout_spectrum: 0.7589418466668576
+typography_spectrum: 0.08405616693198681
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.3460490214638412
+  lightness: 0.8013984838034958
+  saturation: 0.19934297585859895
+  rhythmicContrast: 0.429761556442827
+purpose: []
