@@ -4,8 +4,15 @@
         <description><![CDATA[The ramblings of David Somers]]></description>
         <link>https://thegrid.ai/omz13/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 05 Nov 2015 16:19:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Nov 2015 16:20:14 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/omz13/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Getting Started on The Grid]]></title>
+            <description><![CDATA[<article><h1>Getting Started on The Grid</h1><p>Click the pencil icon in the bottom left to read more...</p><img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/54dd53ebe4b086c0c0966e7a/images/5616ac809033602f2d9baebd/file-t8c0VXJ6mq.gif"></article>]]></description>
+            <link>https://thegrid.ai/omz13/getting-started-on-the-grid/index.html</link>
+            <guid isPermaLink="false">3b641d1e-ed82-42ac-a7f7-b4bc72486754</guid>
+            <pubDate>Thu, 05 Nov 2015 16:20:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Meh]]></title>
             <description><![CDATA[<article><h1>Meh</h1><p>Oh thegrid. Such high hopes. And yet your UI is so confusing and/or buggy, I can't even add an image to my posts.</p></article>]]></description>
